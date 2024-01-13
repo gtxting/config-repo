@@ -7,3 +7,4 @@ spring:
  
 # 自定义配置
 name: config-client-default
+username:15616
